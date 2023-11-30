@@ -16,9 +16,7 @@ Properties are stored in the class: BasePropertyCard_propertyCardWrap__Z5y4p
 Inside a 'div' tag
 
 A text file is created and written to the 'Housing_Data' directory, a text file displaying the results will populate the folder.
-<br>
-Example: 
-
+Data is displayed in the text file in the following format: 
 (1, {'Pricing': '$315,000', 'Bed': '3bed', 'Bath': '2bath', 'Sqft': '1,266sqft1,266 square feet', 'Address': '1770 Castleton Dr Troy, MI 48083'})
 
   
